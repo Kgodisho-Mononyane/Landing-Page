@@ -1,12 +1,28 @@
 .body {
     font-family: "Roboto", "Helvetica;
-    /*background-color: ;*/
 }
 
-.hesder
+.header {
+    background-color: #1F2937;
+    /*display: flex;*/
+    justify-content: space-between;
+    /*align-items: center;*/
+}
 
+.logo {
+    /*width: 100px;
+    height: 100px;*/
+}
 
+.left-nav {
+    justify-content: flex-end;
+    gap: 8px;
+}
 
+li {
+    list-style-type: none;
+    color: #F9FAF8;
+}
 
 
 
