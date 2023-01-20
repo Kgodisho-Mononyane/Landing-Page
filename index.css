@@ -4,7 +4,7 @@
 
 .header {
     background-color: #1F2937;
-    /*display: flex;*/
+    display: flex;
     justify-content: space-between;
     /*align-items: center;*/
 }
@@ -17,14 +17,17 @@
 .left-nav {
     justify-content: flex-end;
     gap: 8px;
-}
+    align-items: flex-end;}
 
 li {
     list-style-type: none;
     color: #F9FAF8;
 }
 
-
+.right-sidebar {
+    color: #F9FAF8;
+    /*align-items: flex-start;*/
+}
 
 
 
