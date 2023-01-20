@@ -1,7 +1,10 @@
+
+/*Document*/
 .body {
     font-family: "Roboto", "Helvetica;
 }
 
+/*Header section*/
 .header {
     background-color: #1F2937;
     display: flex;
@@ -14,7 +17,7 @@
     height: 100px;*/
 }
 
-.left-nav {
+.right-nav {
     justify-content: flex-end;
     gap: 8px;
     align-items: flex-end;}
@@ -30,12 +33,42 @@ li {
 }
 
 
+/*Signup section*/
+.signup-container {
+    background-color: #F9FAF8;
+    display: flex;
+    height: 200px;
+    width: auto;
+    align-items: center;
+    justify-content: center;
+}
 
+.signup-button-container {
+    background-color: #3882F6;
+    border-radius: 5px;
+    height: 150px;
+    width: 400px;
+}
 
+.signup-button {
+    background-color: #3882F6;
+    border-color: #F9FAF8;
+    border-radius: 5px;
+    color: #F9FAF8;
+    height: 30px;
+    width: 70px;
+}
 
+/*Footer section*/
 .footer {
     background-color: #1F2937;
     color: #F9FAF8;
     padding: 10px;
     text-align: center;
 }
+
+
+
+/**/
+
+
