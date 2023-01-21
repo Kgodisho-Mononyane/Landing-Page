@@ -1,74 +1,123 @@
-
-/*Document*/
+/*FULL DOCUMENT*/
 .body {
-    font-family: "Roboto", "Helvetica;
+    /*font-family: ;*/
+    color: white;
 }
 
-/*Header section*/
+/*HEADR SECTION*/
 .header {
     background-color: #1F2937;
+    height: 200px;
+    width: auto;
+}
+
+.navigation-container {
     display: flex;
     justify-content: space-between;
-    /*align-items: center;*/
+}
+
+.left-nav {
+
 }
 
 .logo {
-    /*width: 100px;
-    height: 100px;*/
+
 }
 
 .right-nav {
-    justify-content: flex-end;
-    gap: 8px;
-    align-items: flex-end;}
+
+}
+
+.nav-links {
+    color: white;
+
+}
+
+ul {
+
+}
 
 li {
     list-style-type: none;
-    color: #F9FAF8;
 }
 
-.right-sidebar {
-    color: #F9FAF8;
-    /*align-items: flex-start;*/
+a {
+
 }
 
-
-/*Signup section*/
-.signup-container {
-    background-color: #F9FAF8;
+.header-content-container {
     display: flex;
+    justify-content: space-between;
+
+}
+
+.left-header-content {
+
+}
+
+.header-heading {
+    color: white;
+}
+
+.header-text {
+    color: white;
+}
+
+.header-button {
+    color: white;
+    background-color: #3882F6;
+    border-width: 0px;
+    /*border-color: #E5E7EB;*/
+}
+
+.right-header-content {
+
+}
+
+img {
+    height: 100px;
+    width: auto;
+}
+
+/*INFO SECTION*/
+.info-container {
     height: 200px;
     width: auto;
+}
+
+/*QUOTE SECTION*/
+.quote-container {
+    background-color: #E5E7EB;
+    height: 200px;
+    width: auto;
+
+}
+
+/*CALL TO ACTION SECTION*/
+.call-to-action-container {
+    height: 200px;
+    width: auto;
+    display: flex;
+    justify-content: center;
     align-items: center;
+}
+
+.call-to-action-bubble {
+    background-color: #3882F6;
+    height: 90px;
+    width: 500px;
+
+}
+
+/*FOOTER SECTION*/
+.footer {
+    background-color: #1F2937;
+    height: 56px;
+    width: auto;
+    display: flex;
     justify-content: center;
 }
 
-.signup-button-container {
-    background-color: #3882F6;
-    border-radius: 5px;
-    height: 150px;
-    width: 400px;
+.copyright-text {
+    color: white;
 }
-
-.signup-button {
-    background-color: #3882F6;
-    border-color: #F9FAF8;
-    border-radius: 5px;
-    color: #F9FAF8;
-    height: 30px;
-    width: 70px;
-}
-
-/*Footer section*/
-.footer {
-    background-color: #1F2937;
-    color: #F9FAF8;
-    padding: 10px;
-    text-align: center;
-}
-
-
-
-/**/
-
-
