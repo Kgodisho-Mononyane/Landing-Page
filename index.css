@@ -1,6 +1,6 @@
 /*FULL DOCUMENT*/
 .body {
-    /*font-family: ;*/
+    font-family: 'Roboto', 'Segoe UI';
     color: white;
 }
 
@@ -25,11 +25,13 @@
 }
 
 .right-nav {
+    display: inline;
 
 }
 
 .nav-links {
     color: white;
+    
 
 }
 
