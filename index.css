@@ -73,7 +73,7 @@ a {
     color: white;
 }
 
-.header-button {
+.button {
     color: white;
     background-color: #3882F6;
     border-width: 0px;
@@ -126,8 +126,35 @@ img {
     background-color: #3882F6;
     height: 90px;
     width: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 
 }
+
+.call-to-action-left {
+
+}
+
+.call-to-action-right {
+
+}
+
+.call-to-action-header {
+
+}
+
+.call-to-action-text {
+
+}
+
+.call-to-action-button {
+    color: white;
+    background-color: #3882F6;
+    border-width: 10px;
+    border-color: #E5E7EB;
+}
+
 
 /*FOOTER SECTION*/
 .footer {
