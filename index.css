@@ -1,7 +1,13 @@
 /*FULL DOCUMENT*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .body {
     font-family: 'Roboto', 'Segoe UI';
     color: white;
+    
 }
 
 /*HEADR SECTION*/
@@ -41,6 +47,8 @@ ul {
 
 li {
     list-style-type: none;
+    display: inline;
+    padding: 8px;
 }
 
 a {
@@ -49,7 +57,7 @@ a {
 
 .header-content-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 
 }
 
