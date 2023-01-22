@@ -100,9 +100,19 @@ img {
     background-color: #E5E7EB;
     height: 200px;
     width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
+.quote-text {
+
+}
+
+.quote-author {
+
+}
 /*CALL TO ACTION SECTION*/
 .call-to-action-container {
     height: 200px;
