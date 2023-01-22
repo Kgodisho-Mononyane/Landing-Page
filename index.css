@@ -136,6 +136,7 @@ img {
     width: auto;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .copyright-text {
