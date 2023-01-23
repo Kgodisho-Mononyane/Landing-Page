@@ -97,6 +97,10 @@ img {
     width: auto;
 }
 
+.info-header {
+
+}
+
 /*QUOTE SECTION*/
 .quote-container {
     background-color: #E5E7EB;
@@ -109,10 +113,12 @@ img {
 }
 
 .quote-text {
+    font-size: 30px;
 
 }
 
 .quote-author {
+    font-size: 20px;
 
 }
 /*CALL TO ACTION SECTION*/
