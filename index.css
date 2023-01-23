@@ -104,7 +104,8 @@ img {
     height: 500px;
     width: auto;
     display: flex;
-    justify-content: space-around;
+    /*get all the content in the info container to be centered*/
+    /*justify-content: space-between;*/
 }
 
 .info-header {
