@@ -133,10 +133,11 @@ img {
 .call-to-action-bubble {
     background-color: #3882F6;
     height: 90px;
-    width: 500px;
+    width: 550px;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    border-radius: 5px;
 
 }
 
@@ -161,6 +162,9 @@ img {
 .call-to-action-button {
     color: white;
     background-color: #3882F6;
+    height: 25px;
+    width: 80px;
+    border-radius: 5px;
     border-width: 2px;
     border-color: white;
 }
