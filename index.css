@@ -78,7 +78,8 @@ a {
     color: white;
     background-color: #3882F6;
     height: 25px;
-    width: 55px;
+    width: 80px;
+    border-radius: 5px;
     border-width: 0px;
     /*border-color: #E5E7EB;*/
 }
