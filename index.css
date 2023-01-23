@@ -113,7 +113,10 @@ img {
 }
 
 .property-info-section {
-    
+    margin: auto;
+    padding: auto;
+    display: flex;
+    justify-content: space-around;
 }
 
 .property-container-1 {
