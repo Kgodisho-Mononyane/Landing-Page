@@ -104,12 +104,32 @@ img {
     height: 500px;
     width: auto;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .info-header {
     margin: 20px;
     padding: auto;
+}
+
+.property-info-section {
+    
+}
+
+.property-container-1 {
+
+}
+
+.property-container-2 {
+    
+}
+
+.property-container-3 {
+    
+}
+
+.property-container-4 {
+    
 }
 
 /*QUOTE SECTION*/
